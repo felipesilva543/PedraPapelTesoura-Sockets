@@ -1,4 +1,4 @@
-# pedraPapelTesoura-Sockets
+# PedraPapelTesoura-Sockets
 
 ** Pedra, papel e tesoura (Jokenpô) **
 
